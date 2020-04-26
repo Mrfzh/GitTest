@@ -1,4 +1,4 @@
 test
 sec
 
-f1: apple
+f1: apple,blue
